@@ -1,6 +1,6 @@
 # STM32-Controlled 3-Axis CNC Drawing Machine  
 
-A **3-axis CNC-style drawing machine** powered by an STM32 microcontroller and stepper motors. This project demonstrates how to combine **interrupt-driven input handling**, **stepper motor control**, and a **modular 3D-printed frame** to create a low-cost educational CNC platform.  
+A **3-axis CNC-style drawing machine** powered by an STM32 microcontroller and stepper motors. This project demonstrates how to combine **interrupt-driven input handling**, **stepper motor control**, and a **modular 3D-printed frame** to create a low-cost educational CNC platform. A video demo of the final product can be found on youtube using the following link https://youtube.com/shorts/fzyY_rNcf6s?si=H5-k7CZNy2wZm4F2 .
 
 ---
 
