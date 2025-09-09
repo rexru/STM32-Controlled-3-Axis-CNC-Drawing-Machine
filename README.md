@@ -24,5 +24,3 @@ A **3-axis CNC-style drawing machine** powered by an STM32 microcontroller and s
 - **Frame**: Custom CAD design, 3D printed.  
 
 ---
-
-## 📂 Repository Structure  
